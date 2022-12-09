@@ -4,7 +4,7 @@
 #include <vector>
 #include <set>
 
-// This code is terrible. Not a good day
+// This code is terrible. Bad day
 
 using namespace std;
 
