@@ -8,7 +8,7 @@ int main() {
     
     // open file
     ifstream input;
-    input.open("4.in");
+    input.open("input/4.in");
     if (!input.is_open()) {
         cerr << "Error Opening File\n";
         return -1;

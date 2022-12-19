@@ -9,7 +9,7 @@ int main() {
     
     // open file
     ifstream input;
-    input.open("5.in");
+    input.open("input/5.in");
     if (!input.is_open()) {
         cerr << "Error Opening File\n";
         return -1;

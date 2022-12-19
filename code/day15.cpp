@@ -17,7 +17,7 @@ int main() {
     
     // open file
     ifstream input;
-    input.open("15.in");
+    input.open("input/15.in");
     if (!input.is_open()) {
         cerr << "Error Opening File\n";
         return -1;
